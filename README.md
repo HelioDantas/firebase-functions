@@ -56,5 +56,5 @@ cd ..
 ## Estou rodando o projeto como default
 firebase emulators:start --project default
 ```
-6. Faça a requisição http, você pode usar a extensaão REST Client do VsCode.
+6. Faça a requisição http, você pode usar a extensão REST Client do VsCode.
 Abra o arquivo api.http e envie a chamada
