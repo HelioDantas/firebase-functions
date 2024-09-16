@@ -1,0 +1,15 @@
+
+###
+# @name createRecord
+
+POST http://localhost:5001/default/us-central1/createRecord
+Content-Type: application/json
+
+{
+    "name": "A4"
+}
+
+###
+# @name Record
+
+GET http://localhost:5001/default/us-central1/listRecord
